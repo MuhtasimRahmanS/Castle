@@ -1,0 +1,110 @@
+[
+    {
+      "estate_title": "Modern Single-Family Home with Spacious Yard",
+      "id": 1,
+      "image":"https://i.ibb.co/wsz5yPs/150246.jpg",
+      "segment_name": "Residential",
+      "description": "Newly built home featuring open-concept layout, gourmet kitchen, and large backyard.",
+      "price": "$500,000",
+      "status": "sale",
+      "area": "2500 sq ft",
+      "location": "Family-Friendly Suburb, Pleasantville",
+      "facilities": ["living room", "kitchen", "backyard", "garage"]
+    },
+    {
+      "estate_title": "Downtown Loft Apartment with Industrial Charm",
+      "id": 2,
+      "image":"https://i.ibb.co/3sLHydg/2151004030.jpg",
+      "segment_name": "Residential",
+      "description": "Stylish loft apartment in a historic building with exposed brick walls and modern amenities.",
+      "price": "$2,200/month",
+      "status": "rent",
+      "area": "1500 sq ft",
+      "location": "Arts District, Urban Metropolis",
+      "facilities": ["open-concept layout", "gym", "rooftop terrace"]
+    },
+    {
+      "estate_title": "Quaint Townhouse in Picturesque Neighborhood",
+      "id": 3,
+      "image":"https://i.ibb.co/tQgCTHH/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-ge.jpg",
+      "segment_name": "Residential",
+      "description": "Charming townhouse nestled in a tree-lined street with cozy interiors and private patio.",
+      "price": "$300,000",
+      "status": "sale",
+      "area": "1600 sq ft",
+      "location": "Quaint Village, Serene Town",
+      "facilities": ["living room", "kitchen", "patio"]
+    },
+    {
+      "estate_title": "Student Housing Complex near University Campus",
+      "id": 4,
+      "image":"https://i.ibb.co/nQ3RgRG/slide1.jpg",
+      "segment_name": "Student Housing",
+      "description": "Convenient student housing offering modern amenities and easy access to campus facilities.",
+      "price": "$800/month (per student)",
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "University District, College Town",
+      "facilities": ["study lounge", "fitness center", "laundry facilities"]
+    },
+    {
+      "estate_title": "Senior Living Community with Scenic Views",
+      "id": 5,
+      "image":"https://i.ibb.co/QNZ34dL/slide2.jpg",
+      "segment_name": "Senior Living",
+      "description": "Retirement community surrounded by nature, offering comfort, and care services.",
+      "price": "$4,000/month",
+      "status": "rent",
+      "area": "1800 sq ft",
+      "location": "Tranquil Meadows, Senior Haven",
+      "facilities": ["community center", "walking trails", "medical services"]
+    },
+    {
+      "estate_title": "Luxury Vacation Villa with Private Pool",
+      "id": 6,
+      "image":"https://i.ibb.co/JRq87R6/slide3.jpg",
+      "segment_name": "Vacation Rental",
+      "description": "Exquisite villa featuring luxurious amenities, stunning views, and a secluded location.",
+      "price": "$600/night",
+      "status": "rent",
+      "area": "3000 sq ft",
+      "location": "Secluded Paradise, Tropical Retreat",
+      "facilities": ["private pool", "game room", "oceanfront view"]
+    },
+    {
+      "estate_title": "Cozy Cottage Retreat in the Countryside",
+      "id": 7,
+      "image":"https://i.ibb.co/ct2tdy1/modern-luxury-apartments-reflect-futuristic-urban-growth-generated-by-ai.jpg",
+      "segment_name": "Vacation Rental",
+      "description": "Rustic cottage surrounded by nature, offering a peaceful escape from city life.",
+      "price": "$150/night",
+      "status": "rent",
+      "area": "1000 sq ft",
+      "location": "Tranquil Hills, Rural Escape",
+      "facilities": ["fireplace", "porch", "garden"]
+    },
+    {
+      "estate_title": "Modern Condo with Panoramic City Views",
+      "id": 8,
+      "image":"https://i.ibb.co/B46cndT/2150799673.jpg",
+      "segment_name": "Residential",
+      "description": "Sleek condo with floor-to-ceiling windows, contemporary design, and urban conveniences.",
+      "price": "$700,000",
+      "status": "sale",
+      "area": "2000 sq ft",
+      "location": "City Center, Vibrant Metropolis",
+      "facilities": ["living room", "swimming pool", "fitness center"]
+    },
+    {
+      "estate_title": "Spacious Family Home in Suburban Oasis",
+      "id": 9,
+      "image":"https://i.ibb.co/09228fz/2150799619.jpg",
+      "segment_name": "Residential",
+      "description": "Large family home with multiple bedrooms, backyard oasis, and neighborhood amenities.",
+      "price": "$600,000",
+      "status": "sale",
+      "area": "2800 sq ft",
+      "location": "Tranquil Suburb, Family-Friendly Community",
+      "facilities": ["living room", "kitchen", "backyard", "garage"]
+    }
+  ]
